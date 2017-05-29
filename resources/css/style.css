@@ -1,0 +1,19 @@
+body {
+  font-family: helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+.header {
+  background-image: url(/Users/emilioromero/Desktop/projects/Broadway/resources/images/the-flatiron-building.png);
+}
