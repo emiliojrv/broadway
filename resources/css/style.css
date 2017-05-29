@@ -17,3 +17,20 @@ a {
 .header {
   background-image: url(/Users/emilioromero/Desktop/projects/Broadway/resources/images/the-flatiron-building.png);
 }
+
+#designed {
+  background-image: url(/Users/emilioromero/Desktop/projects/Broadway/resources/images/the-flatiron-building.png);
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+}
+
+span {
+  color: white;
+  font-size: 11px;
+}
